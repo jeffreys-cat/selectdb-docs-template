@@ -1,0 +1,7 @@
+{
+    "Variable-Settings": "变量设置",
+    "SQL-Blacklist": "SQL 黑名单",
+    "HLL-Approximate-Deduplication": "HLL 近似去重",
+    "BITMAP-Accurate-Deduplication": "BITMAP 精准去重",
+    "Time-Zone-Setting": "时区设置"
+}

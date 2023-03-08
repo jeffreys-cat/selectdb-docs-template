@@ -1,0 +1,10 @@
+{
+    "Kafka-SelectDB-Connector": "Kafka SelectDB Connector",
+    "Flink-SelectDB-Connector": "Flink SelectDB Connector",
+    "Spark-SelectDB-Connector": "Spark SelectDB Connector",
+    "Logstash-SelectDB-Output": "Logstash SelectDB Output",
+    "DBT-SelectDB-Adapter": "DBT SelectDB Adapter",
+    "DataX-SelectDB-Writer": "DataX SelectDB Writer",
+    "SeaTunnel-SelectDB-Sink": "SeaTunnel SelectDB Sink",
+    "BitSail-SelectDB-Sink": "BitSail SelectDB Sink"
+}

@@ -1,0 +1,3 @@
+# 外部表
+
+当前SelectDB Cloud所生成的仓库都运行在SelectDB的VPC，如果需要访问位于客户VPC的外部数据源，则需要联系SelectDB的技术支持同学，通过配置VPC间的Peering Connection，以便让两个VPC进行互通。

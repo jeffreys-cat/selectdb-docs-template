@@ -1,0 +1,4 @@
+{
+    "Kafka-SelectDB-Connector": "Kafka SelectDB Connector",
+    "Connector-JMX": "使用 Java Management Extensions (JMX) 监视 Selectdb Kafka Connect"
+}

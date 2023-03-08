@@ -1,0 +1,7 @@
+{
+    "Table-Engine": "表引擎",
+    "Table-Index": "索引",
+    "Rollup-and-Materialized-View": "ROLLUP 与物化视图",
+    "Partitions-and-Buckets": "分区分桶",
+    "Table-Modification": "表修改"
+}

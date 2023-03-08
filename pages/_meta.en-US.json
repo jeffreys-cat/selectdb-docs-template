@@ -1,0 +1,10 @@
+{
+    "cloud": {
+        "title": "SelectDB Cloud",
+        "type": "page"
+    },
+    "distribution": {
+        "title": "SelectDB Distribution",
+        "type": "page"
+    }
+}

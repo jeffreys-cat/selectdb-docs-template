@@ -1,0 +1,11 @@
+{
+    "Connect-Warehouse": "连接仓库",
+    "Data-Storage": "数据存储",
+    "Data-Import": "数据导入",
+    "Data-Query": "数据查询",
+    "External-Table": "外部表",
+    "Ecological-Integration": "生态集成",
+    "Access-Control": "权限管理",
+    "Backup-and-Recovery": "备份与恢复",
+    "Others": "其他"
+}

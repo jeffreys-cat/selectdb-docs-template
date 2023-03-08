@@ -1,0 +1,7 @@
+{
+    "Variable-Settings": "Variable Settings",
+    "SQL-Blacklist": "SQL Blacklist",
+    "HLL-Approximate-Deduplication": "HLL Approximate Deduplication",
+    "BITMAP-Accurate-Deduplication": "BITMAP Accurate Deduplication",
+    "Time-Zone-Setting": "Time Zone Setting"
+}

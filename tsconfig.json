@@ -4,7 +4,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-  ],
+, "pages/_document.tsx", "pages/_app.mdx"  ],
   "exclude": [
     "node_modules"
   ],
